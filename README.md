@@ -23,3 +23,5 @@ File uploading
 Authentication (JWT token)
 
 o Source code(frontend): https://github.com/solgaezhova/mern_project_front
+
+o App in web: https://mern-project-1eab7.web.app/
